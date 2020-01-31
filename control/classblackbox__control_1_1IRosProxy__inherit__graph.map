@@ -1,0 +1,4 @@
+<map id="blackbox_control::IRosProxy" name="blackbox_control::IRosProxy">
+<area shape="rect" id="node2" href="$classblackbox__control_1_1RosProxy.html" title="Includes ROS&#45;related functionality abstraction. " alt="" coords="5,80,200,107"/>
+<area shape="rect" id="node3" href="$classblackbox__control_1_1RosProxyFake.html" title="Fake class to monitor function calls of the IRosProxy class. " alt="" coords="225,80,450,107"/>
+</map>

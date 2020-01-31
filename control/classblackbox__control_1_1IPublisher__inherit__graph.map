@@ -1,0 +1,4 @@
+<map id="blackbox_control::IPublisher" name="blackbox_control::IPublisher">
+<area shape="rect" id="node2" href="$classblackbox__control_1_1MockPublisher.html" title="Mock class to monitor function calls of the IPublisher class. " alt="" coords="5,87,233,114"/>
+<area shape="rect" id="node3" href="$classblackbox__control_1_1PublisherProxy.html" title="Stores a ROS Publisher, and publishes the value of it. " alt="" coords="258,80,453,121"/>
+</map>
