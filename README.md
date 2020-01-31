@@ -21,8 +21,8 @@ The complete BLACKBOX project built up from the following repositories:
 For user and installation manuals, please visit [blackbox_documentation](https://github.com/PPM-Robotics-AS/blackbox_documentation) repository.
 - BLACKBOX main code documentation [html](https://github.com/PPM-Robotics-AS/blackbox_documentation/main)
 - BLACKBOX control code documentation [html](https://github.com/PPM-Robotics-AS/blackbox_documentation/control)
-- BLACKBOX user documentation and installation manual [pdf](https://github.com/PPM-Robotics-AS/blackbox_documentation/BlackBox User Manual.pdf)
-- FlexGui 4.0 user manual [pdf](https://github.com/PPM-Robotics-AS/blackbox_documentation/FlexGui User Documentation.pdf)
+- BLACKBOX user documentation and installation manual [pdf](https://github.com/PPM-Robotics-AS/blackbox_documentation/raw/master/BlackBox%20User%20Manual.pdf)
+- FlexGui 4.0 user manual [pdf](https://github.com/PPM-Robotics-AS/blackbox_documentation/raw/master/FlexGui%20User%20Documentation.pdf)
 
 ## License
 
